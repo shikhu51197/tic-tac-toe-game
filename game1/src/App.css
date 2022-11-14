@@ -9,6 +9,9 @@
 .board-container {
   margin: 100px;
   text-align: center;
- 
-  
+
+}
+
+body {
+  background: linear-gradient(0.25turn, #8a2b7f, #ebf8e1, #f69d3c);
 }
